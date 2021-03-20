@@ -4,7 +4,7 @@ import NavTabs from "./components/NavTabs";
 import Home from "./components/pages/Home";
 import Portfolio from "./components/pages/Portfolio";
 import Contact from "./components/pages/Contact";
-import Footer from "./components/pages/Footer/index";
+import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
