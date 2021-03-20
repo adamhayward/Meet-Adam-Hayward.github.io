@@ -1,4 +1,5 @@
 import React from "react";
+import Logo from "../../images/logo192.png";
 import "./style.css";
 
 function Footer() {
@@ -10,7 +11,16 @@ function Footer() {
         </span>
         MeetAdamHayward<span style={{ color: "orange" }}>.com</span>
         <br />
-        <span className="text-uppercase" style={{ fontSize: "12px" }}>created by Adam Hayward</span>
+        <p className="text-uppercase" style={{ fontSize: "12px" }}>
+          created by adam hayward
+          <br />
+          powerd by React.js{" "}
+          <img
+            src={Logo}
+            style={{ hight: "15px", width: "15px" }}
+            alt="react.js logo"
+          />
+        </p>
       </p>
     </footer>
   );
