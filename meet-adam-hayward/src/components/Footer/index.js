@@ -2,6 +2,9 @@ import React from "react";
 import Logo from "../../images/logo192.png";
 import "./style.css";
 
+const name = 'adam hayward';
+
+
 function Footer() {
   return (
     <footer className="footer bg-dark">
@@ -12,7 +15,7 @@ function Footer() {
         MeetAdamHayward<span style={{ color: "orange" }}>.com</span>
         <br />
         <p className="text-uppercase" style={{ fontSize: "12px" }}>
-          created by adam hayward
+          created by {name}
           <br />
           powerd by React.js{" "}
           <img
