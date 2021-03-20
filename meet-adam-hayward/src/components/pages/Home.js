@@ -15,16 +15,6 @@ function Home() {
       </Row>
       <Row className="row-auto">
         <Col>
-          {/* <img
-            className="img-responsive"
-            src={HeadShot}
-            alt="Adam Hayward's head shot"
-            style={{float: "left", marginRight: "2%", width: "225px"}}
-          /> */}
-     
-      {/* </Row>
-      <Row className="row-auto"> */}
-       
           <p />
           <img
             className="img-responsive"
