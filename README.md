@@ -5,7 +5,7 @@
 
 Welcome to my personal profile. 
 
-<img  alt="sreenshot"  src="../src/images/screenshot.png">
+<img  alt="sreenshot"  src="./public/images/screenshot.png">
 
 [Click Here](https://adamhayward.github.io/Meet-Adam-Hayward/) to check out my content to get to know me.
 

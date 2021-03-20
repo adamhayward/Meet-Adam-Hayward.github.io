@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Meet-Adam-Hayward/static/css/main.2c6d8aef.chunk.css",
+    "main.js": "/Meet-Adam-Hayward/static/js/main.d4e6e481.chunk.js",
+    "main.js.map": "/Meet-Adam-Hayward/static/js/main.d4e6e481.chunk.js.map",
+    "runtime-main.js": "/Meet-Adam-Hayward/static/js/runtime-main.c22f8011.js",
+    "runtime-main.js.map": "/Meet-Adam-Hayward/static/js/runtime-main.c22f8011.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Meet-Adam-Hayward/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.23dd658c.chunk.js": "/Meet-Adam-Hayward/static/js/2.23dd658c.chunk.js",
+    "static/js/2.23dd658c.chunk.js.map": "/Meet-Adam-Hayward/static/js/2.23dd658c.chunk.js.map",
+    "index.html": "/Meet-Adam-Hayward/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Meet-Adam-Hayward/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2c6d8aef.chunk.css.map": "/Meet-Adam-Hayward/static/css/main.2c6d8aef.chunk.css.map",
+    "static/js/2.23dd658c.chunk.js.LICENSE.txt": "/Meet-Adam-Hayward/static/js/2.23dd658c.chunk.js.LICENSE.txt",
+    "static/media/event-calendar.d675e8b0.png": "/Meet-Adam-Hayward/static/media/event-calendar.d675e8b0.png",
+    "static/media/headshot.e9a85f07.png": "/Meet-Adam-Hayward/static/media/headshot.e9a85f07.png",
+    "static/media/noted-app.17515b35.png": "/Meet-Adam-Hayward/static/media/noted-app.17515b35.png",
+    "static/media/weather-dashboard.483c732d.png": "/Meet-Adam-Hayward/static/media/weather-dashboard.483c732d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c22f8011.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.23dd658c.chunk.js",
+    "static/css/main.2c6d8aef.chunk.css",
+    "static/js/main.d4e6e481.chunk.js"
+  ]
+}

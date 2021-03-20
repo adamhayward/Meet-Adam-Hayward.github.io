@@ -3,7 +3,7 @@ import Container from "../Container";
 import Row from "../row";
 import Col from "../col";
 import Title from "../Title";
-import HeadShot from "../../images/headshot.png";
+import HeadShot from "../../public/images/headshot.png";
 
 function Home() {
   return (

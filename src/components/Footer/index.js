@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../images/logo192.png";
+import Logo from "../../public/images/logo192.png";
 import "./style.css";
 
 const name = 'adam hayward';

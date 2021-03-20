@@ -1,8 +1,20 @@
 [
   {
     "id": 1,
+    "title": "Event Calendar App",
+    "img":  "/src/images/noted-app.png",
+    "url": "https://adamhayward.github.io/Event_Calender_App/"
+  },
+  {
+    "id": 2,
     "title": "Noted App",
     "img":  "/src/images/noted-app.png",
     "url": "https://adamhayward.github.io/Show_Me_The_Funny/"
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashbord App",
+    "img":  "/src/images/weather-app.png",
+    "url": "./Assets/Images/weather-dashboard.png"
   }
 ]
