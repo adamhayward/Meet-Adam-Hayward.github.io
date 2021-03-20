@@ -1,7 +1,4 @@
 import React from "react";
-// import EventCalendar from "../../images/event-calendar.png";
-// import Noted from "../../images/noted-app.png";
-// import WeatherDashboard from "../../images/weather-dashboard.png";
 import Container from "../Container";
 import Row from "../row";
 import Col from "../col";
