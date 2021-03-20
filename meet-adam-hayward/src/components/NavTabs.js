@@ -5,9 +5,9 @@ function NavTabs() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-dark">
       <div className="container-fluid">
-        <Link to="/" className="navbar-brand text-white">
-          MeetAdamHayward<span style={{ color: "orange" }}>.com</span>
-        </Link>
+        <a className="navbar-brand text-white " href="/">
+          MeetAdamHayward<span style={{color:"orange"}}>.com</span>
+        </a>
         <button
           className="navbar-toggler"
           type="button"
@@ -22,7 +22,7 @@ function NavTabs() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <Link
+            <Link
                 to="/"
                 className="nav-link active text-white text-uppercase ml-5"
               >
@@ -38,7 +38,7 @@ function NavTabs() {
               </Link>
             </li>
             <li className="nav-item">
-              <Link
+            <Link
                 to="/contact"
                 className="nav-link active text-white text-uppercase ml-5"
               >
@@ -53,3 +53,4 @@ function NavTabs() {
 }
 
 export default NavTabs;
+
