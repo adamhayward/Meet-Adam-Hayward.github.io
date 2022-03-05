@@ -24,7 +24,7 @@ function Contact() {
               ></input>
             </div>
             <div className="form-group text-uppercase">
-              <label for="exampleInputEmail1">email address</label>
+              <label for="inputEmail">email address</label>
               <input
                 type="email"
                 className="form-control"
@@ -32,7 +32,7 @@ function Contact() {
               ></input>
             </div>
             <div className="form-group text-uppercase">
-              <label for="exampleFormControlTextarea1">message</label>
+              <label for="message">message</label>
               <textarea
                 className="form-control"
                 placeholder="Message"

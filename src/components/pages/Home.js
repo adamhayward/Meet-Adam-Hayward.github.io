@@ -3,7 +3,6 @@ import Container from "../Container";
 import Row from "../row";
 import Col from "../col";
 import Title from "../Title";
-import HeadShot from "../../public/images/headshot.png";
 
 function Home() {
   return (
@@ -18,7 +17,6 @@ function Home() {
           <p />
           <img
             className="img-responsive"
-            src={HeadShot}
             alt="Adam Hayward's head shot"
             style={{float: "left", marginRight: "2%", width: "225px"}}
           />

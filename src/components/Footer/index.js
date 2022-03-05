@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../public/images/logo192.png";
+
 import "./style.css";
 
 const name = 'adam hayward';
@@ -19,7 +19,7 @@ function Footer() {
           <br />
           powerd by React.js{" "}
           <img
-            src={Logo}
+        
             style={{ hight: "15px", width: "15px" }}
             alt="react.js logo"
           />
