@@ -7,8 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <Router>
-      <Route exact path="/MeetAdamHayward.com" component={Home} />
-      <Route exact path="/" component={Home} />
+      <Route path="/" component={Home} />
   </Router>
   );
 }

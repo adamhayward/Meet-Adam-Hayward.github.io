@@ -75,7 +75,7 @@ function Home() {
               <Col className="displayFlex justifyContentCenter" xs={4} xl={3}>
                 <a
                   href="https://www.linkedin.com/in/adam-hayward-1562b4173/"
-                  target="_blank"
+                  target="blank"
                 >
                   <img
                     className="img-responsive icon btnCol"
@@ -85,7 +85,7 @@ function Home() {
                 </a>
               </Col>
               <Col className="displayFlex justifyContentCenter" xs={4} xl={3}>
-                <a href="https://github.com/adamhayward" target="_blank">
+                <a href="https://github.com/adamhayward" target="blank">
                   <img
                     className="img-responsive icon btnCol"
                     src={gitHubLogo}
@@ -94,10 +94,7 @@ function Home() {
                 </a>
               </Col>
               <Col className="displayFlex justifyContentCenter" xs={4} xl={3}>
-                <a
-                  href="https://www.instagram.com/a.hayward11/"
-                  target="_blank"
-                >
+                <a href="https://www.instagram.com/a.hayward11/" target="blank">
                   <img
                     className="img-responsive icon btnCol`"
                     src={instagramLogo}
