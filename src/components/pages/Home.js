@@ -99,7 +99,7 @@ function Home() {
                   target="_blank"
                 >
                   <img
-                    className="img-responsive icon btnCol"
+                    className="img-responsive icon btnCol`"
                     src={instagramLogo}
                     alt="Instagram icon"
                   />

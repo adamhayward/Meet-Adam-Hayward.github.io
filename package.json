@@ -1,8 +1,8 @@
 {
-  "name": "meet-adam-hayward",
+  "name": "meetadamhayward.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "meetadamhayward.com",
+  "homepage": "http://adamhayward.github.io/MeetAdamHayward.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
