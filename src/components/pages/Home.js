@@ -1,17 +1,18 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
+import '../../main.css'
 import "./home.css";
-import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
-import headShot from "../../images/headshot.png";
+import headShot from "../../images/headshot.jpg";
 import linkedInLogo from "../../images/linkedin-logo.svg";
 import gitHubLogo from "../../images/github-logo.svg";
 import instagramLogo from "../../images/instagram-logo.svg";
 
 function Home() {
   return (
-    <Container>
       <Row>
         <Col id="headShotCol" xs={12} sm={4}>
           <img
@@ -65,13 +66,11 @@ function Home() {
               </Col>
             </Row>
             <Row>
-              <Col className="displayFlex justifyContentCenter " xs={12} xl={9}>
-                <Button className="btnCol" id="btnResume">
-                  View Resume
-                </Button>
+              <Col className="displayFlex justifyContentCenter " xs={12} xl={9}>              
+                <Button id="btnResume"><Link style={{textDecoration:"none", color: "#fff"}} to="/resume">View Resume</Link></Button>
               </Col>
             </Row>
-            <Row>
+            <Row className="mt-2">
               <Col className="displayFlex justifyContentCenter" xs={4} xl={3}>
                 <a
                   href="https://www.linkedin.com/in/adam-hayward-1562b4173/"
@@ -116,7 +115,6 @@ function Home() {
           </div>
         </Col>
       </Row>
-    </Container>
   );
 }
 
